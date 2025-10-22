@@ -573,3 +573,5 @@ child
 
 ptr_examples.cpp
 class_examples.cpp
+
+.vscode/
